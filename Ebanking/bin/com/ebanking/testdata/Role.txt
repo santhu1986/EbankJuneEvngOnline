@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+hdfctellers###E
+hdfcclerks###E
+hdfcPos###E
